@@ -1,0 +1,9 @@
+[debug] > Exec(WordCount, None, None)
+[error] Not a valid command: WordCount
+[error] Not a valid project ID: WordCount (similar: word-count)
+[error] Expected ':'
+[error] Expected '/'
+[error] Not a valid key: WordCount (similar: run)
+[error] WordCount
+[error]          ^
+[debug] > Exec(idea-shell, None, None)
